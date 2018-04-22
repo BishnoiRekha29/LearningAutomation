@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="taTest.NewTest" duration-ms="8204" started-at="2018-04-06T03:56:31Z" finished-at="2018-04-06T03:56:39Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="8204" started-at="2018-04-06T03:56:31Z" finished-at="2018-04-06T03:56:39Z">
+      <class name="taTest.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:taTest.NewTest@246ae04d]" name="beforeTest" is-config="true" duration-ms="2974" started-at="2018-04-06T09:26:31Z" finished-at="2018-04-06T09:26:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:taTest.NewTest@246ae04d]" name="testEasy" duration-ms="4518" started-at="2018-04-06T09:26:34Z" finished-at="2018-04-06T09:26:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:taTest.NewTest@246ae04d]" name="afterTest" is-config="true" duration-ms="700" started-at="2018-04-06T09:26:38Z" finished-at="2018-04-06T09:26:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- taTest.NewTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- taTest.NewTest -->
+</testng-results>
